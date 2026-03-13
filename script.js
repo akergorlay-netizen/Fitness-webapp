@@ -1,13 +1,13 @@
 // Configuration Firebase (remplace les valeurs par les tiennes)
 const firebaseConfig = {
-    apiKey: "AIzaSyBUYdBTV31gI_HCTjO3Yjyb3KFGkdMoEbQ",
-    authDomain: "fitness-app-cf4d8.firebaseapp.com",
-    projectId: "fitness-app-cf4d8",
-    storageBucket: "fitness-app-cf4d8.firebasestorage.app",
-    messagingSenderId: "244040081054",
-    appId: "1:244040081054:web:51acbd85ae4b6ef0cba58f",
-    measurementId: "G-ZEKYTP4YMT"
-  };
+  apiKey: "AIzaSyBUYdBTVB31gI_HCTj03Yjyb3KFGkdMoEbQ",
+  authDomain: "fitness-app-cf4d8.firebaseapp.com",
+  projectId: "fitness-app-cf4d8",
+  storageBucket: "fitness-app-cf4d8.appspot.com",
+  messagingSenderId: "244040081054",
+  appId: "1:244040081054:web:51acbd85ae4b6ef0cba58f",
+  measurementId: "G-ZEKYTP4YMT"
+};
 
 // Initialiser Firebase
 firebase.initializeApp(firebaseConfig);
